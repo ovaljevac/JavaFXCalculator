@@ -1,0 +1,26 @@
+.body {
+    -fx-background-color: black;
+}
+.text-area {
+    -fx-background-color: black;   /* Set the background color to black */
+    -fx-text-fill: white;           /* Set the text color to white for contrast */
+    -fx-font-size: 40px;            /* Adjust the font size as needed */
+    -fx-border-color: white;       /* Optional: Add a white border */
+    -fx-border-width: 0px;         /* Optional: Adjust border width */
+}
+.btn {
+    -fx-background-color: dimgray;
+    -fx-border: none;
+    -fx-color: white;
+    -fx-text-align: center;
+    -fx-border-radius: 50%;
+    -fx-text-fill: white;
+    -fx-font-size: 30px;
+    -fx-background-radius: 50%;
+}
+.red {
+    -fx-background-color: red;
+}
+.orange {
+    -fx-background-color: orange;
+}
